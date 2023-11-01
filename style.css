@@ -1,0 +1,19 @@
+/* .item:hover{
+  color:aquamarine;
+}
+a:hover{
+  color:brown;
+} */
+body{
+  background-color:aqua;
+}
+@media(max-width:600px){
+  body{
+      background-color: pink;
+  }
+}
+@media(max-width:300px){
+  body{
+      background-color:red;
+  }
+}
